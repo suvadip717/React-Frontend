@@ -1,7 +1,7 @@
 const Hero = () => {
   return (
     <div className="flex px-36 py-20 justify-between">
-      <div className="w-full">
+      <div className="w-full py-6">
         <h1 className="uppercase text-9xl font-extrabold">
           Your Feet Deserve The Best
         </h1>
@@ -23,7 +23,7 @@ const Hero = () => {
           <img src="amazon.png" alt="amazon-image" />
         </div>
       </div>
-      <div className="py-16">
+      <div className="py-16 w-full">
         <img src="shoe_image.png" alt="Hero-image" className="h-full w-full" />
       </div>
     </div>
