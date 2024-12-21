@@ -1,6 +1,6 @@
 # Brand Shample Page
 
-![brand mockup](https://github.com/suvadip717/Product-Management/blob/main/Screenshots/Screenshot%20from%202024-09-24%2011-21-16.png)
+![brand mockup](https://github.com/suvadip717/React-Frontend/blob/main/brand-page/public/brand%20mockup.png)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
