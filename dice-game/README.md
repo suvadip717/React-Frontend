@@ -1,7 +1,7 @@
 # Dice Game
 
-![HomePage](HomePage)
-![GamePage](GamePage)
+![HomePage](https://github.com/suvadip717/React-Frontend/blob/main/dice-game/public/HomePage.png)
+![GamePage](https://github.com/suvadip717/React-Frontend/blob/main/dice-game/public/GamePage.png)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
